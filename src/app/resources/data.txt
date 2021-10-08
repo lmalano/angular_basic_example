@@ -1,0 +1,77 @@
+[
+  {
+    "id": "1",
+    "nombre": "Manzanas",
+    "precio": 5
+  },
+  {
+    "id": "2",
+    "nombre": "Bananas",
+    "precio": 7.5
+  },
+  {
+    "id": "3",
+    "nombre": "Naranjas",
+    "precio": 7.5
+  },
+  {
+    "id": "4",
+    "nombre": "Peras",
+    "precio": 6
+  },
+  {
+    "id": "5",
+    "nombre": "Duraznos",
+    "precio": 8
+  },
+  {
+    "id": "6",
+    "nombre": "Frutillas",
+    "precio": 10
+  },
+  {
+    "id": "7",
+    "nombre": "Kiwis",
+    "precio": 9
+  },
+  {
+    "id": "8",
+    "nombre": "Ciruelas",
+    "precio": 6.5
+  },
+  {
+    "id": "9",
+    "nombre": "Anana",
+    "precio": 12
+  },
+  {
+    "id": "10",
+    "nombre": "Mandarinas",
+    "precio": 5
+  },
+  {
+    "id": "11",
+    "nombre": "Sandia",
+    "precio": 15
+  },
+  {
+    "id": "12",
+    "nombre": "Melon",
+    "precio": 13
+  },
+  {
+    "id": "13",
+    "nombre": "Uvas",
+    "precio": 8
+  },
+  {
+    "id": "14",
+    "nombre": "Higos",
+    "precio": 5
+  },
+  {
+    "id": "15",
+    "nombre": "Cerezas",
+    "precio": 16
+  }
+]

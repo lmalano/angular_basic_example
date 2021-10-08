@@ -1,0 +1,25 @@
+
+<app-aside [total]="total"></app-aside>
+
+<h1>Productos de Verduleria </h1>
+<hr>
+<button id="boton" (click)="borrar()"type="button" class="btn btn-danger" >Vaciar Carrito</button>
+<hr>
+
+<div class="card-columns">
+<div class="card " *ngFor="let prod of productos" style="width: 18rem;">
+  
+  <img class="card-img-top" [src]="prod.img" alt="Card image cap">
+  <div class="card-block">
+    <h5 class="card-title">{{prod.nombre}}</h5>
+    <p class="card-text">La mejor/es {{prod.nombre}} que encontraras</p>
+    <a  (click)="addCarrito(prod.id)" class="btn btn-primary">Comprar</a>
+    <a  (click)="propagar()" class="btn btn-primary">Comprar</a>
+   
+  </div>
+  
+  </div>
+
+</div>
+
+
